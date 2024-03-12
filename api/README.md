@@ -10,9 +10,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 Ensure you have the following installed on your machine:
 
-- Node.js (v14.x)
+- Node.js (v18.17)
 - PostgreSQL (v12.x)
-- npm (v6.x) or yarn (v1.x)
+- npm (v10.4)
 
 ### Installation
 
@@ -21,7 +21,7 @@ Follow these steps to set up the development environment:
 1. Clone the repository to your local machine:
 
 ```
-git clone <https://github.com/henriquemalvar/cleanpathcrm.git>
+git clone https://github.com/henriquemalvar/cleanpathcrm.git
 cd api
 
 ```

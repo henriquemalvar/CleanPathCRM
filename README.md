@@ -10,9 +10,9 @@ Follow these instructions to set up the project on your local machine for develo
 
 Ensure you have the following installed on your local machine:
 
-- Node.js (v14.x)
+- Node.js (v18.17)
 - PostgreSQL (v12.x)
-- npm (v6.x) or yarn (v1.x)
+- npm (v10.4)
 
 ### **Repository Structure**
 
